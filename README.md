@@ -2,7 +2,7 @@
 
 😉 **Why don't you use the pre-made menus in our git to design your site**
 
-![navbar](https://user-images.githubusercontent.com/109727844/206014935-21cd046b-01dc-4697-8edd-66fa83a9cc53.jpg)
+![Slider](https://user-images.githubusercontent.com/109727844/206017772-ba6dd5f1-593b-4dc9-9ed2-d755eeec634e.jpg)
 
 ![navmobile](https://user-images.githubusercontent.com/109727844/206015343-f1dfe11c-3992-47d3-b02b-fc2c6d42524f.jpg)
 
