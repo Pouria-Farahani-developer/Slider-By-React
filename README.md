@@ -4,15 +4,13 @@
 
 ![Slider](https://user-images.githubusercontent.com/109727844/206017772-ba6dd5f1-593b-4dc9-9ed2-d755eeec634e.jpg)
 
-![navmobile](https://user-images.githubusercontent.com/109727844/206015343-f1dfe11c-3992-47d3-b02b-fc2c6d42524f.jpg)
-
-![navmob](https://user-images.githubusercontent.com/109727844/206015703-d2741580-e953-4d77-b137-a5263dfe4d11.jpg)
+![slider (1)](https://user-images.githubusercontent.com/109727844/206018081-99b17d4b-888e-4023-9e58-04137abe18a3.jpg)
 
 - 🔗 [Demo Project](https://pouria-farahani-developer.github.io/Slider-By-React/)
 
 - 👨‍💻 Developed by pouria farahani
 
-- 📆 Created - 2022-12-05
+- 📆 Created - 2022-12-06
 
 - 🤖 Technologies Used - Html , css , js , React.js
 
