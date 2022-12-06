@@ -8,7 +8,7 @@
 
 ![navmob](https://user-images.githubusercontent.com/109727844/206015703-d2741580-e953-4d77-b137-a5263dfe4d11.jpg)
 
-- 🔗 [Demo Project](https://pouria-farahani-developer.github.io/Navbar-Responsive-By-React/)
+- 🔗 [Demo Project](https://pouria-farahani-developer.github.io/Slider-By-React/)
 
 - 👨‍💻 Developed by pouria farahani
 
