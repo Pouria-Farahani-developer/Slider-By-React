@@ -6,6 +6,8 @@
 
 ![slider (1)](https://user-images.githubusercontent.com/109727844/206018081-99b17d4b-888e-4023-9e58-04137abe18a3.jpg)
 
+Be sure to turn on your filter breaker to view users' images
+
 - 🔗 [Demo Project](https://pouria-farahani-developer.github.io/Slider-By-React/)
 
 - 👨‍💻 Developed by pouria farahani
