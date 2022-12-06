@@ -1,6 +1,6 @@
 # Slider-By-React
 
-🧐 **You can write the experiences of each of your company's engineers in my attractive slider! So hurry up**
+🤔 **You can write the experiences of each of your company's engineers in my attractive slider! So hurry up**
 
 ![Slider](https://user-images.githubusercontent.com/109727844/206017772-ba6dd5f1-593b-4dc9-9ed2-d755eeec634e.jpg)
 
