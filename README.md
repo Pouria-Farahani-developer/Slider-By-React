@@ -1,4 +1,4 @@
-# Navbar-Responsive-By-React
+# Slider-By-React
 
 😉 **Why don't you use the pre-made menus in our git to design your site**
 
